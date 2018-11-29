@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: About
 ---
 
 ![photo](assets/headshot-cropped.jpeg){: .center-image}
