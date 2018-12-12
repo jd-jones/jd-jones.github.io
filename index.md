@@ -5,7 +5,7 @@
 layout: page
 ---
 
-![photo](assets/headshot-cropped.jpeg){: .center-image}
+![photo](assets/headshot-cropped.jpeg)
 
 I'm a graduate student (since 2014) in the [ECE department][ece-page] at Johns
 Hopkins, where I'm advised by [Sanjeev Khudanpur][sanjeev-page] and
