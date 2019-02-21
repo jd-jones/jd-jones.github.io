@@ -5,7 +5,7 @@
 layout: page
 ---
 
-![photo](assets/headshot-cropped.jpeg){: .center-image}
+![photo](assets/headshot-cropped.jpeg)
 
 I'm a graduate student (since 2014) in the [ECE department][ece-page] at Johns
 Hopkins, where I'm advised by [Sanjeev Khudanpur][sanjeev-page] and
@@ -15,6 +15,7 @@ Speech Processing ([CLSP][clsp]) and the the Computational Interaction and Robot
 
 My research interests include statistical signal processing,
 computer vision, graphical models, and information theory.
+
 
 # News
 **Nov 5, 2018:** Our paper, *Toward computer vision systems that understand
