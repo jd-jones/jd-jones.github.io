@@ -33,7 +33,7 @@ Characterizing spatial construction processes: Toward computational tools to und
 *CogSci 2017 Proceedings*, 246-251. <br>
 [(Paper)][cogsci-2017-paper]
 
-[g-scholar]: https://scholar.google.com/citations?hl=en&user=5QmTYPUAAAAJ)
+[g-scholar]: https://scholar.google.com/citations?hl=en&user=5QmTYPUAAAAJ
 [blocks-site]: https://cirl.lcsr.jhu.edu/spatial-cognition-and-block-building/
 [wacv-2019-ieee]: https://ieeexplore.ieee.org/document/8659114
 [wacv-2019-paper]: https://cirl.lcsr.jhu.edu/wp-content/uploads/2019/02/2019_wacv_jones-et-al.pdf
